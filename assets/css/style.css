@@ -304,7 +304,7 @@ color:#777777;
          border-width:8px;
          border-color:teal;
          background-color:#666666;
-         margin-top:895px;
+         margin-top:858px;
          margin-left:-230px;
      }
 /*the main content for contact.html*/
@@ -894,7 +894,7 @@ color:#777777;
   }
   /*the underlines*/
   .underline{
-      width:350px;
+      width:400px;
       height:10px;
       background-color:white;
       border-top:solid;
@@ -904,3 +904,497 @@ color:#777777;
       margin-top:25px;
   }
   }
+
+/*@media 980px>*/
+@media screen and (max-width:980px){
+    /*the main content for portfolio.html*/
+.container1{
+    height:800px;
+    width:768px;
+    background-color:#ffffff;
+    margin-left:20px;
+    margin-top:50px;
+    position: absolute;
+}
+/*the background for portfolio.html*/
+.maindiv1{
+    width:980px;
+    height:1000px;
+    background-color:lightgray;
+    background-image:url(https://www.fg-a.com/wallpapers/2017-4-light-background-geo.jpg);
+    background-size: cover;
+    margin-left:0px;
+    margin-top:40px;
+    position:absolute;
+    border-top:groove;
+    border-color:#cccccc;
+    }
+/*the bold text for portfolio.html*/
+    .namep1{
+        color:#4aaaa5;
+        font-size:30px;
+        font-weight:900;
+        position:absolute;
+        margin-left:30px;
+        margin-top:20px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+/*the images for portfolio.html*/
+    #image1{
+        position:absolute;
+        width:250px;
+        margin-top:50px;
+        left:-10px;
+        z-index:0;
+    }
+
+    #image2{
+        position:absolute;
+        width:250px;
+        margin-top:275px;
+        left:-10px;
+    }
+
+    
+    #image3{
+        position:absolute;
+        width:250px;
+        margin-top:500px;
+        left:-10px;
+    }
+    
+    #image4{
+        position:absolute;
+        width:250px;
+        margin-top:50px;
+        left:275px;
+    }
+
+    #image5{
+        position:absolute;
+        width:250px;
+        margin-top:275px;
+        left:275px;
+    }
+/* the  image text for portfolio.html*/
+/*the top left image text*/
+    .imgdiv1{
+    width:250px;
+    height:45px;
+    background-color:teal;
+    margin-top:200px;
+    z-index:999;
+    position:absolute;
+    left:-10px;
+    font-size:20px;
+    text-align:center;
+    vertical-align:middle;
+    line-height:45px;
+    color:white;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+/*the top right image text*/
+    .imgdiv2{
+        width:250px;
+        height:45px;
+        background-color:teal;
+        margin-top:200px;
+        z-index:999;
+        position:absolute;
+        left:275px;
+        font-size:20px;
+        text-align:center;
+        vertical-align:middle;
+        line-height:45px;
+        color:white;
+        font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        }
+/* the center left image text*/
+        .imgdiv3{
+            width:250px;
+            height:45px;
+            background-color:teal;
+            margin-top:425px;
+            z-index:999;
+            position:absolute;
+            left:-10px;
+            font-size:20px;
+            text-align:center;
+            vertical-align:middle;
+            line-height:45px;
+            color:white;
+            font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+            }
+        /*the right bottom image text*/
+     .imgdiv4{
+         width:250px;
+         height:45px;
+         background-color:teal;
+         margin-top:425px;
+         z-index:999;
+         position:absolute;
+         left:275px;
+         font-size:20px;
+         text-align:center;
+         vertical-align:middle;
+         line-height:45px;
+         color:white;
+         font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+         } 
+/*the bottom left image text*/
+        .imgdiv5{
+            width:250px;
+            height:45px;
+            background-color:teal;
+            margin-top:650px;
+            z-index:999;
+            position:absolute;
+            left:-10px;
+            font-size:20px;
+            text-align:center;
+            vertical-align:middle;
+            line-height:45px;
+            color:white;
+            font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+            }
+/* the footer for portfolio.html*/
+     .footer1{
+         width:980px;
+         height:50px;
+         border-top:solid;
+         border-width:8px;
+         border-color:teal;
+         background-color:#666666;
+         margin-top:858px;
+         margin-left:-50px;
+     }
+    }
+/*@media 768px>*/
+@media screen and (max-width:768px){
+    /*the main content for portfolio.html*/
+.container1{
+    height:800px;
+    width:640px;
+    background-color:#ffffff;
+    margin-left:20px;
+    margin-top:50px;
+    position: absolute;
+}
+/*the background for portfolio.html*/
+.maindiv1{
+    width:768px;
+    height:1000px;
+    background-color:lightgray;
+    background-image:url(https://www.fg-a.com/wallpapers/2017-4-light-background-geo.jpg);
+    background-size: cover;
+    margin-left:0px;
+    margin-top:40px;
+    position:absolute;
+    border-top:groove;
+    border-color:#cccccc;
+    }
+/*the bold text for portfolio.html*/
+    .namep1{
+        color:#4aaaa5;
+        font-size:30px;
+        font-weight:900;
+        position:absolute;
+        margin-left:10px;
+        margin-top:20px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+/*the images for portfolio.html*/
+    #image1{
+        position:absolute;
+        width:200px;
+        margin-top:50px;
+        left:0px;
+        z-index:5;
+    }
+
+    #image2{
+        position:absolute;
+        width:200px;
+        margin-top:275px;
+        left:5px;
+    }
+
+    
+    #image3{
+        position:absolute;
+        width:200px;
+        margin-top:500px;
+        left:5px;
+    }
+    
+    #image4{
+        position:absolute;
+        width:200px;
+        margin-top:50px;
+        left:275px;
+    }
+
+    #image5{
+        position:absolute;
+        width:200px;
+        margin-top:275px;
+        left:275px;
+    }
+/* the  image text for portfolio.html*/
+/*the top left image text*/
+    .imgdiv1{
+    width:200px;
+    height:45px;
+    background-color:teal;
+    margin-top:200px;
+    z-index:999;
+    position:absolute;
+    left:0px;
+    font-size:20px;
+    text-align:center;
+    vertical-align:middle;
+    line-height:45px;
+    color:white;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+/*the top right image text*/
+    .imgdiv2{
+        width:200px;
+        height:45px;
+        background-color:teal;
+        margin-top:200px;
+        z-index:999;
+        position:absolute;
+        left:275px;
+        font-size:20px;
+        text-align:center;
+        vertical-align:middle;
+        line-height:45px;
+        color:white;
+        font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        }
+/* the center left image text*/
+        .imgdiv3{
+            width:200px;
+            height:45px;
+            background-color:teal;
+            margin-top:425px;
+            z-index:999;
+            position:absolute;
+            left:5px;
+            font-size:15px;
+            text-align:center;
+            vertical-align:middle;
+            line-height:45px;
+            color:white;
+            font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+            }
+        /*the right bottom image text*/
+     .imgdiv4{
+         width:200px;
+         height:45px;
+         background-color:teal;
+         margin-top:425px;
+         z-index:999;
+         position:absolute;
+         left:275px;
+         font-size:20px;
+         text-align:center;
+         vertical-align:middle;
+         line-height:45px;
+         color:white;
+         font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+         } 
+/*the bottom left image text*/
+        .imgdiv5{
+            width:200px;
+            height:45px;
+            background-color:teal;
+            margin-top:650px;
+            z-index:999;
+            position:absolute;
+            left:5px;
+            font-size:15px;
+            text-align:center;
+            vertical-align:middle;
+            line-height:45px;
+            color:white;
+            font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+            }
+/* the footer for portfolio.html*/
+     .footer1{
+         width:768px;
+         height:50px;
+         border-top:solid;
+         border-width:8px;
+         border-color:teal;
+         background-color:#666666;
+         margin-top:858px;
+         margin-left:-30px;
+     }
+    }
+
+    /*@media 640px>*/
+@media screen and (max-width:640px){
+    /*the main content for portfolio.html*/
+.container1{
+    height:800px;
+    width:500px;
+    background-color:#ffffff;
+    margin-left:20px;
+    margin-top:50px;
+    position: absolute;
+}
+/*the background for portfolio.html*/
+.maindiv1{
+    width:640px;
+    height:1000px;
+    background-color:lightgray;
+    background-image:url(https://www.fg-a.com/wallpapers/2017-4-light-background-geo.jpg);
+    background-size: cover;
+    margin-left:0px;
+    margin-top:40px;
+    position:absolute;
+    border-top:groove;
+    border-color:#cccccc;
+    }
+/*the bold text for portfolio.html*/
+    .namep1{
+        color:#4aaaa5;
+        font-size:30px;
+        font-weight:900;
+        position:absolute;
+        margin-left:10px;
+        margin-top:20px;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+/*the images for portfolio.html*/
+    #image1{
+        position:absolute;
+        width:200px;
+        margin-top:50px;
+        left:0px;
+        z-index:5;
+    }
+
+    #image2{
+        position:absolute;
+        width:200px;
+        margin-top:275px;
+        left:5px;
+    }
+
+    
+    #image3{
+        position:absolute;
+        width:200px;
+        margin-top:500px;
+        left:5px;
+    }
+    
+    #image4{
+        position:absolute;
+        width:200px;
+        margin-top:50px;
+        left:275px;
+    }
+
+    #image5{
+        position:absolute;
+        width:200px;
+        margin-top:275px;
+        left:275px;
+    }
+/* the  image text for portfolio.html*/
+/*the top left image text*/
+    .imgdiv1{
+    width:200px;
+    height:45px;
+    background-color:teal;
+    margin-top:200px;
+    z-index:999;
+    position:absolute;
+    left:0px;
+    font-size:20px;
+    text-align:center;
+    vertical-align:middle;
+    line-height:45px;
+    color:white;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    }
+/*the top right image text*/
+    .imgdiv2{
+        width:200px;
+        height:45px;
+        background-color:teal;
+        margin-top:200px;
+        z-index:999;
+        position:absolute;
+        left:275px;
+        font-size:20px;
+        text-align:center;
+        vertical-align:middle;
+        line-height:45px;
+        color:white;
+        font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        }
+/* the center left image text*/
+        .imgdiv3{
+            width:200px;
+            height:45px;
+            background-color:teal;
+            margin-top:425px;
+            z-index:999;
+            position:absolute;
+            left:5px;
+            font-size:15px;
+            text-align:center;
+            vertical-align:middle;
+            line-height:45px;
+            color:white;
+            font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+            }
+        /*the right bottom image text*/
+     .imgdiv4{
+         width:200px;
+         height:45px;
+         background-color:teal;
+         margin-top:425px;
+         z-index:999;
+         position:absolute;
+         left:275px;
+         font-size:20px;
+         text-align:center;
+         vertical-align:middle;
+         line-height:45px;
+         color:white;
+         font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+         } 
+/*the bottom left image text*/
+        .imgdiv5{
+            width:200px;
+            height:45px;
+            background-color:teal;
+            margin-top:650px;
+            z-index:999;
+            position:absolute;
+            left:5px;
+            font-size:15px;
+            text-align:center;
+            vertical-align:middle;
+            line-height:45px;
+            color:white;
+            font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+            }
+/* the footer for portfolio.html*/
+     .footer1{
+         width:640px;
+         height:50px;
+         border-top:solid;
+         border-width:8px;
+         border-color:teal;
+         background-color:#666666;
+         margin-top:858px;
+         margin-left:-30px;
+     }
+    }
